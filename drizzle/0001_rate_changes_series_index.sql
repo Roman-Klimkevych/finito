@@ -1,0 +1,1 @@
+CREATE INDEX `rate_changes_series_idx` ON `rate_changes` (`employee_id`,`category_id`,`created_at`);
