@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# sqlite database
+*.db
+*.db-shm
+*.db-wal
+
+# private notes
+INTERVIEW.md
+Home-assignment Finito.pdf
+
+# AI agent instructions (local tooling, not part of the submission)
+AGENTS.md
+CLAUDE.md
